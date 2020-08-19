@@ -24,3 +24,8 @@ $ git clone https://github.com/FaroukZeino/iFarouKXcodeTheme.git
 6. It's yours now. 🥳
 
 ![](Themes.png)
+
+## Attributions
+
+The colors of this theme are created by me.
+
