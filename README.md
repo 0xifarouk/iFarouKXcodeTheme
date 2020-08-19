@@ -10,10 +10,10 @@ $ git clone https://github.com/FaroukZeino/iFarouKXcodeTheme.git
 ```
 
 2. Create a folder at this path if it doesn't exist already:
+###### Tip: You can copy the path then open Finder after that press ⌘ + ⇧ + G
 ```
 ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ```
-###### Tip: You can copy the path then open Finder after that press ⌘ + ⇧ + G
 
 3. Copy the file `iFarouKTheme.xccolortheme` into the above folder.
 
