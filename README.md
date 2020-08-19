@@ -6,7 +6,7 @@
 
 1. Clone this repo:
 ```
-$ git clone https://github.com/FaroukZeino/iFarouKXcodeTheme.git
+git clone https://github.com/FaroukZeino/iFarouKXcodeTheme.git
 ```
 
 2. Create a folder at this path if it doesn't exist already:
