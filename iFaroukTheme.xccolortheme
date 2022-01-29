@@ -5,25 +5,25 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>SFMono-Bold - 13.0</string>
+	<string>JetBrainsMono-Bold - 13.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>SFMono-Medium - 13.0</string>
+	<string>JetBrainsMono-Medium - 13.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.255 0.714 0.27 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>SFMono-Bold - 13.0</string>
+	<string>JetBrainsMono-Bold - 13.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>SFMono-Medium - 13.0</string>
+	<string>JetBrainsMono-Medium - 13.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>SFMono-Bold - 13.0</string>
+	<string>JetBrainsMono-Bold - 13.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0.0922006 0.0917242 0.106091 1</string>
+	<string>0.0691495 0.0781501 0.102394 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>0.901961 0.901961 0.901961 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
@@ -85,7 +85,7 @@
 	<key>DVTScrollbarMarkerWarningColor</key>
 	<string>0.937255 0.717647 0.34902 1</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.000115137 0.0854865 0.15364 1</string>
+	<string>0.0691495 0.0781501 0.102394 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
