@@ -25,6 +25,12 @@ git clone https://github.com/FaroukZeino/iFarouKXcodeTheme.git
 
 ![](Themes.png)
 
+## Design
+
+- Blue colors indicate project definitions (i.e. Custom types).
+
+- Purple colors indicate other definitions (i.e. UIKit, URLSession).
+
 ## Attributions
 
 The colors of this theme are created by me.
